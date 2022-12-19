@@ -1,0 +1,4 @@
+# JavaInterfaces
+
+
+Java interfaces practice 
